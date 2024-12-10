@@ -1,0 +1,14 @@
+{
+	"javascript.validate.enable": false,
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"typescript.preferences.importModuleSpecifier": "relative",
+	"bun.enable": true,
+	"editor.formatOnSave": true,
+	"files.eol": "\n",
+	"[typescriptreact]": {
+	  "editor.defaultFormatter": "biomejs.biome"
+	},
+	"[typescript]": {
+	  "editor.defaultFormatter": "biomejs.biome"
+	}
+}
